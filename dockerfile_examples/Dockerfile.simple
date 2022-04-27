@@ -1,0 +1,5 @@
+# scratch is a special container that is totally empty
+
+FROM scratch
+
+COPY example.txt /example.txt
